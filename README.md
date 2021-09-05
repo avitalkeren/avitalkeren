@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avitalkeren
-- 👀 I’m interested in Javascript, React, Node, Typscript, CSS, HTML
-- 🌱 I’m currently learning Kubernetes, Docker, GraphQL 
+- 👀 I’m interested in Javascript, React, Node, Typscript, CSS, HTML, .Net Core
+- 🌱 I’m currently learning Kubernetes, Docker, GraphQL, Scala
 - 📫 How to reach me https://uk.linkedin.com/in/kerenaliceavital
 
 <!---
